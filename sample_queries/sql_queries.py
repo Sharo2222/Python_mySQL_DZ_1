@@ -13,7 +13,7 @@ def create_table(name):
             )"""
     return COMMAND
 
-def inseert_db(table, columns, data):
+def insert_db(table, columns, data):
     COMAND = fr"""INSERT INTO {table} {columns} VALUES {data};"""
     return COMAND
 
