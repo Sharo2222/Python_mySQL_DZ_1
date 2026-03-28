@@ -1,6 +1,6 @@
-MY_SQL_USER='admin'
-MY_SQL_KEY='Niceman23!'
-MY_SQL_HOST='localhost'
-MY_SQL_PORT=3306
-MY_SQL_DRIVER='mysql-connector-python'
+MY_SQL_USER=''
+MY_SQL_KEY=''
+MY_SQL_HOST=''
+MY_SQL_PORT=
+MY_SQL_DRIVER=''
 NONE_VALUE=NONE
